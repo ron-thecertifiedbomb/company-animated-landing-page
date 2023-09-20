@@ -19,7 +19,7 @@ const World = () => (
       <TypingText title="| Embark on a digital odyssey with us" textStyles="text-center" />
       <TitleText
         title={(
-          <div className='text-[40px]'>"Navigate the digital landscape with us, where we not only track your online journey but also invite you to explore a world of web development possibilities together."
+          <div className='text-[40px]'>""Navigate the dynamic digital landscape with us and explore a world of modern web development possibilities."
           </div>
         )}
         textStyles="text-center"
