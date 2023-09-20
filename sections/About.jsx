@@ -27,6 +27,7 @@ const About = () => (
         development that knows no bounds, we're here to transform your online
         presence into an immersive, unforgettable experience.
         <span className="font-extrabold text-white">
+          <br></br>
           Crafting Your Digital Universe
         </span>{" "}
         into a world where innovation meets creativity, where pixels and
