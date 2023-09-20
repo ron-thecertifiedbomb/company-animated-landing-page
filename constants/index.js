@@ -27,23 +27,23 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Websites serve as digital storefronts, providing a 24/7 accessible presence.',
+  'They are the first digital impression customers often encounter.',
+  'Businesses without websites risk falling behind in the digital age',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Modern UI Designs Tailored to Suit Your Needs',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        ' We prioritize creating sleek and user-friendly user interfaces (UI) that align seamlessly with your unique goals and brand identity.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Client-Centric Web Solutions: Your Success, Our Priority',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'We believe that the key to successful web development is understanding and prioritizing our clients needs, goals, and visions. ',
   },
 ];
 

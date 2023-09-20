@@ -22,7 +22,7 @@ const About = () => (
         variants={fadeIn("up", "tween", 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Lizard Interactive developers</span>{" "}
+        <span className="font-extrabold text-white">Lizard Interactive Developers</span>{" "}
         are the architects of your digital dreams. With a passion for web
         development that knows no bounds, we're here to transform your online
         presence into an immersive, unforgettable experience.
