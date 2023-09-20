@@ -28,6 +28,7 @@ const About = () => (
         presence into an immersive, unforgettable experience.
         <span className="font-extrabold text-white">
           <br></br>
+          <br></br>
           Crafting Your Digital Universe
         </span>{" "}
         into a world where innovation meets creativity, where pixels and
