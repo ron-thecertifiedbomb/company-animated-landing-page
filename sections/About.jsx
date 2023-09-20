@@ -26,9 +26,8 @@ const About = () => (
         are the architects of your digital dreams. With a passion for web
         development that knows no bounds, we're here to transform your online
         presence into an immersive, unforgettable experience.
+        <br></br>
         <span className="font-extrabold text-white">
-          <br></br>
-          <br></br>
           Crafting Your Digital Universe
         </span>{" "}
         into a world where innovation meets creativity, where pixels and
