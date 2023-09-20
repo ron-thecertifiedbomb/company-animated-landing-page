@@ -1,9 +1,6 @@
-'use client';
-
 import { motion } from 'framer-motion';
-
-import styles from '../styles';
 import { fadeIn } from '../utils/motion';
+import styles from '../styles';
 
 const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
   <motion.div
@@ -34,7 +31,7 @@ const ExploreCard = ({ id, imgUrl, title, index, active, handleClick }) => (
           />
         </div>
         <p className="font-normal text-[16px] leading-[20.16px] text-white uppercase">
-          Enter Metaverse
+          Turning Code into Creativity
         </p>
         <h2 className="mt-[24px] font-semibold sm:text-[32px] text-[24px] text-white">
           {title}
