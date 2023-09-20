@@ -20,7 +20,7 @@ const Explore = () => {
         viewport={{ once: false, amount: 0.25 }}
         className={`${styles.innerWidth} mx-auto flex flex-col`}
       >
-        <TypingText title="| Services Offered" textStyles="text-center" />
+        <TypingText title="| Exploring Web Variety that we build from scratch" textStyles="text-center" />
         <TitleText
           title={<>Where Imagination <br className="md:block hidden" /> Meets Innovation</>}
           textStyles="text-center"
