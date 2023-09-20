@@ -36,11 +36,11 @@ const About = () => (
         development wizards leverages the latest technologies and industry best
         practices to build websites that not only look stunning but also perform
         seamlessly.
-        <span className="font-extrabold text-white">VR</span> devices you can
+        {/* <span className="font-extrabold text-white">VR</span> devices you can
         easily explore the metaverse world you want, turn your dreams into
         reality. Let's{" "}
         <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        of the metaverse by scrolling down */}
       </motion.p>
 
       <motion.img
